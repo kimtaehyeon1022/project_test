@@ -1,4 +1,8 @@
 aaddcode
 code
 azxcvbnm
+<<<<<<< HEAD
 main
+=======
+testing
+>>>>>>> test
