@@ -2,3 +2,6 @@ add new file
 add 1st line
 add 2nd line
 add 3rd line
+1
+2
+3
