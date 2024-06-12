@@ -1,12 +1,14 @@
 aaddcode
 code
 azxcvbnm
-<<<<<<< HEAD
+HEAD
 main
-=======
 testing
->>>>>>> test
+test
 bug fixed
 aaa
 abc
+test
 bnms
+qwer
+main
